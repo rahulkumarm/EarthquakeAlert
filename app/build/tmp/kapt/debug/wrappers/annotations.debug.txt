@@ -1,0 +1,141 @@
+a org.jetbrains.annotations.NotNull 0
+p com.exercise.earthquakes.network 0
+f 0 0/EarthquakeRequestParams username
+m 0 0/EarthquakeRequestParams getUsername
+m 0 0/EarthquakeRequestParams component5
+m 0 0/EarthquakeRequestParams copy
+m 0 0/EarthquakeRequestParams copy$default
+m 0 0/EarthquakeService invokeEarthquakes
+p com.exercise.earthquakes.network.EarthquakeService 1
+f 0 1/Companion BASE_URL
+f 0 1/Companion ENDPOINT
+f 0 0/EarthquakeService BASE_URL
+f 0 0/EarthquakeService ENDPOINT
+p com.exercise.earthquakes.network.clients 2
+f 0 2/RetrofitClient mEarthquakeService
+m 0 2/RetrofitClient getMEarthquakeService
+p io.github.adamshurwitz.retrorecycler.dependencyinjection 3
+m 0 3/RetrofitClientDataModule provideHttpClient
+m 0 3/RetrofitClientDataModule provideRetrofit
+m 0 3/RetrofitClientDataModule provideService
+p com.exercise.earthquakes.model 4
+m 0 4/EarthquakeItem toString
+m 0 4/EarthquakeItem getLocation
+f 0 4/Earthquakes earthquakes
+m 0 4/Earthquakes getEarthquakes
+m 0 4/Earthquakes component1
+m 0 4/Earthquakes copy
+m 0 4/Earthquakes copy$default
+p com.exercise.earthquakes.ui.EarthquakesAdapter 5
+f 0 5/BaseViewHolder view
+m 0 5/BaseViewHolder getView
+p com.exercise.earthquakes.ui 6
+m 0 6/EarthquakesAdapter onCreateViewHolder
+f 0 6/EarthquakesAdapter items
+m 0 6/EarthquakesAdapter getItems
+f 0 6/MapActivity EARTHQUAKE_LIST
+p com.exercise.earthquakes.ui.MapActivity 7
+m 0 7/Companion getEARTHQUAKE_LIST
+f 0 6/MapActivity FOCUSED_EARTHQUAKE
+m 0 7/Companion getFOCUSED_EARTHQUAKE
+p com.exercise.earthquakes.EQApplication 8
+m 0 8/Companion getApplication
+p com.exercise.earthquakes 9
+f 0 9/Repository mEarthquakeClient
+m 0 9/Repository getMEarthquakeClient
+f 0 9/Repository mEarthquakeRequestParams
+m 0 9/Repository getMEarthquakeRequestParams
+p com.exercise.earthquakes.ui.di 10
+m 0 10/ModelViewDataModule provideViewModel
+m 0 10/ModelViewDataModule provideEarthquakeRequestParams
+a retrofit2.http.GET 1
+m 1 0/EarthquakeService invokeEarthquakes
+a javax.inject.Inject 2
+f 2 2/RetrofitClient mEarthquakeService
+f 2 9/Repository mEarthquakeClient
+f 2 9/Repository mEarthquakeRequestParams
+a android.support.annotation.NonNull 3
+f 3 2/RetrofitClient mCompositeDisposable
+a dagger.Module 4
+c 4 3/RetrofitClientDataModule
+c 4 10/ModelViewDataModule
+a dagger.Provides 5
+m 5 3/RetrofitClientDataModule provideHttpClient
+m 5 3/RetrofitClientDataModule provideRetrofit
+m 5 3/RetrofitClientDataModule provideService
+m 5 10/ModelViewDataModule provideViewModel
+m 5 10/ModelViewDataModule provideEarthquakeRequestParams
+a javax.inject.Singleton 6
+m 6 3/RetrofitClientDataModule provideHttpClient
+m 6 3/RetrofitClientDataModule provideRetrofit
+p com.exercise.earthquakes.network.di 11
+c 6 11/RetrofitClientDataComponent
+a org.jetbrains.annotations.Nullable 7
+f 7 4/EarthquakeItem eqid
+m 7 4/EarthquakeItem getEqid
+f 7 4/EarthquakeItem lng
+m 7 4/EarthquakeItem getLng
+f 7 4/EarthquakeItem src
+m 7 4/EarthquakeItem getSrc
+f 7 4/EarthquakeItem datetime
+m 7 4/EarthquakeItem getDatetime
+f 7 4/EarthquakeItem lat
+m 7 4/EarthquakeItem getLat
+f 7 4/EarthquakeItem depth
+m 7 4/EarthquakeItem getDepth
+f 7 9/Repository mEarthQuakes
+m 7 9/Repository getMEarthQuakes
+a dagger.Component 8
+c 8 11/RetrofitClientDataComponent
+c 8 10/ModelViewDataComponent
+d 0/EarthquakeRequestParams
+d 0/EarthquakeService
+d 1/DefaultImpls
+d 1/Companion
+d 0/NetworkConstants
+p com.exercise.earthquakes.network.NetworkConstants 12
+d 12/Companion
+d 0/Utils
+p com.exercise.earthquakes.network.Utils 13
+d 13/Companion
+p com.exercise.earthquakes.extensions 14
+d 14/ActivityKt
+d 2/BaseClient
+d 2/RetrofitClient
+d 2/URLConnectionClient
+d 3/RetrofitClientDataModule
+d 4/EarthquakeItem
+d 4/Earthquakes
+d 6/AlertDialog
+d 6/EarthquakesAdapter
+d 5/BaseViewHolder
+d 5/LoadingViewHolder
+d 5/EarthquakeViewHolder
+d 5/Companion
+d 6/MainActivity
+d 6/MapActivity
+d 7/Companion
+d 6/SplashScreenActivity
+p com.exercise.earthquakes.ui.SplashScreenActivity 15
+d 15/Companion
+p com.exercise.earthquakes.ui.databinding 16
+d 16/EarthquakeItemActions
+d 9/EQApplication
+d 8/Companion
+d 9/PlayServicesUtils
+p com.exercise.earthquakes.PlayServicesUtils 17
+d 17/Companion
+d 9/Repository
+d 11/RetrofitClientDataComponent
+p com.exercise.earthquakes.network.di.RetrofitClientDataComponent 18
+d 18/DefaultImpls
+p com.exercise.earthquakes.ui.interfaces 19
+d 19/OnEarthquakeRetrieved
+p com.exercise.earthquakes.ui.interfaces.OnEarthquakeRetrieved 20
+d 20/DefaultImpls
+p com.exercise.earthquakes.ui.viewmodel 21
+d 21/MainActivityViewModel
+d 10/ModelViewDataComponent
+p com.exercise.earthquakes.ui.di.ModelViewDataComponent 22
+d 22/DefaultImpls
+d 10/ModelViewDataModule

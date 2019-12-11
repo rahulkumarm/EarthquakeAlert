@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\e1eaab7cddd73862fc80ecff75648b40\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\4d43f42145faea7ab638cecdbc86f5cb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\9161698631e0dea0cef00cf85a23b7da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\4e57c2c6f6d50ff56197edea908a48ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\642b11c04579133064cbbf60d47a8837\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d54d399a03a6a69d588eca79a04db62a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\85fed9a9ecde2d879945076470c0fc26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34c31c0a2b586cad806fc3f6ae438748\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:17:1-32:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b5e78e50541a50e01dcb6e8940b93c15\AndroidManifest.xml:2:1-13:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\fd0c6a0a65775f84505b53917be2feb6\AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\37d460679f0826536c6fd5614e132fc4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3be6fe30e896686a8ec2c4c5ef4b7e55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ac53d6bec478370586961cdcc937fb21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d558c8a2a62ee27688819f7a6833fecb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6853c7c528c2b9ff751db2b217769644\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0c2bd770e03833a1ed4fc94b4392a72b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\7f1a7b180d17b2f01860515a6e95a86a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c40925d5fb4ec5b33115af4dd73d65cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b771c1a8b7d96f7597c98acc200b04e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4b53194bea98487b9e2bf386ff0f16c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\69c72687f2a2b2924aa993f6cc34160e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\85bbc9ccb4a90c96c06bfb3b0f8b434f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d99b72884ea70665216ddab81cbaebcf\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1d827f950e47e0333a1c24f2d96a475\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\62ccb9568e8adb3d94327725ed69ac00\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34c31c0a2b586cad806fc3f6ae438748\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34c31c0a2b586cad806fc3f6ae438748\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:30:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b5e78e50541a50e01dcb6e8940b93c15\AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b5e78e50541a50e01dcb6e8940b93c15\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\37d460679f0826536c6fd5614e132fc4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\37d460679f0826536c6fd5614e132fc4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\85bbc9ccb4a90c96c06bfb3b0f8b434f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\85bbc9ccb4a90c96c06bfb3b0f8b434f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d99b72884ea70665216ddab81cbaebcf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d99b72884ea70665216ddab81cbaebcf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1d827f950e47e0333a1c24f2d96a475\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1d827f950e47e0333a1c24f2d96a475\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\62ccb9568e8adb3d94327725ed69ac00\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\62ccb9568e8adb3d94327725ed69ac00\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:15:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:13:9-43
+	android:roundIcon
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:11:9-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:19:9-21:55
+	android:value
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:21:13-52
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:20:13-58
+activity#com.exercise.earthquakes.ui.SplashScreenActivity
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:theme
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:24:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.exercise.earthquakes.ui.MapActivity
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:32:9-34:58
+	android:label
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:34:13-55
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.exercise.earthquakes.ui.MainActivity
+ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:35:9-37:59
+	android:label
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml:36:13-44
+uses-sdk
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\e1eaab7cddd73862fc80ecff75648b40\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\adapters-3.1.4.aar\e1eaab7cddd73862fc80ecff75648b40\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\4d43f42145faea7ab638cecdbc86f5cb\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-3.1.4.aar\4d43f42145faea7ab638cecdbc86f5cb\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\9161698631e0dea0cef00cf85a23b7da\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\9161698631e0dea0cef00cf85a23b7da\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\4e57c2c6f6d50ff56197edea908a48ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\4e57c2c6f6d50ff56197edea908a48ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\642b11c04579133064cbbf60d47a8837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\642b11c04579133064cbbf60d47a8837\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d54d399a03a6a69d588eca79a04db62a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d54d399a03a6a69d588eca79a04db62a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\85fed9a9ecde2d879945076470c0fc26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\85fed9a9ecde2d879945076470c0fc26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34c31c0a2b586cad806fc3f6ae438748\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\34c31c0a2b586cad806fc3f6ae438748\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:20:5-44
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b5e78e50541a50e01dcb6e8940b93c15\AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\b5e78e50541a50e01dcb6e8940b93c15\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\fd0c6a0a65775f84505b53917be2feb6\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\fd0c6a0a65775f84505b53917be2feb6\AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\37d460679f0826536c6fd5614e132fc4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\37d460679f0826536c6fd5614e132fc4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3be6fe30e896686a8ec2c4c5ef4b7e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\3be6fe30e896686a8ec2c4c5ef4b7e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ac53d6bec478370586961cdcc937fb21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\ac53d6bec478370586961cdcc937fb21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d558c8a2a62ee27688819f7a6833fecb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d558c8a2a62ee27688819f7a6833fecb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6853c7c528c2b9ff751db2b217769644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6853c7c528c2b9ff751db2b217769644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0c2bd770e03833a1ed4fc94b4392a72b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\0c2bd770e03833a1ed4fc94b4392a72b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\7f1a7b180d17b2f01860515a6e95a86a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\7f1a7b180d17b2f01860515a6e95a86a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c40925d5fb4ec5b33115af4dd73d65cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c40925d5fb4ec5b33115af4dd73d65cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b771c1a8b7d96f7597c98acc200b04e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b771c1a8b7d96f7597c98acc200b04e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4b53194bea98487b9e2bf386ff0f16c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\4b53194bea98487b9e2bf386ff0f16c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\69c72687f2a2b2924aa993f6cc34160e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\69c72687f2a2b2924aa993f6cc34160e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\85bbc9ccb4a90c96c06bfb3b0f8b434f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.8.0.aar\85bbc9ccb4a90c96c06bfb3b0f8b434f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d99b72884ea70665216ddab81cbaebcf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\d99b72884ea70665216ddab81cbaebcf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1d827f950e47e0333a1c24f2d96a475\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\c1d827f950e47e0333a1c24f2d96a475\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\62ccb9568e8adb3d94327725ed69ac00\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\62ccb9568e8adb3d94327725ed69ac00\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RAHUL\Downloads\EarthquakesAlertApp-master\EarthquakesAlertApp-master\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\762c2918b37b8d340a59230b61a167e4\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\1b18ed06348ee135d768f0eb27c4cedb\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\RAHUL\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\00e10edb9161d8f8f6f4ce34ed88964a\AndroidManifest.xml:24:13-58
